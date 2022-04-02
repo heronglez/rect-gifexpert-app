@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rect-gifexpert-app/static/css/main.18a4801c.css",
+    "main.js": "/rect-gifexpert-app/static/js/main.92af7a23.js",
+    "index.html": "/rect-gifexpert-app/index.html",
+    "main.18a4801c.css.map": "/rect-gifexpert-app/static/css/main.18a4801c.css.map",
+    "main.92af7a23.js.map": "/rect-gifexpert-app/static/js/main.92af7a23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18a4801c.css",
+    "static/js/main.92af7a23.js"
+  ]
+}
