@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GifExpertApp /> debe de mostrar una lista de categorias 1`] = `ShallowWrapper {}`;
+
+exports[`Pruebas en <GifExpertApp /> debe de mostrarse correctamente 1`] = `ShallowWrapper {}`;
